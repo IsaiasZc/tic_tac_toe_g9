@@ -30,4 +30,8 @@ main {
   height: 150px;
   width: 150px;
   background-color: #333;
+  display: grid;
+  place-items: center;
+  font-size: 3.5rem;
+  cursor: pointer;
 }
